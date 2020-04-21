@@ -2,8 +2,8 @@
 name: Bug report
 about: Create a report to help us improve
 title: "[BUG]"
-labels: bug
-assignees: ananjaser1211
+labels: ''
+assignees: ''
 
 ---
 
@@ -28,4 +28,4 @@ Add screenshots to help explain your problem.
  - Model: [e.g. G930F]
 
 **Additional context**
-- Gather logs by using [LoggingKit](https://bit.ly/3anwSuW)
+- Gather logs by using [LoggingKit](https://bit.ly/3anwSuW) when applicable
