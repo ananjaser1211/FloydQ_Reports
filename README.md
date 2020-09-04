@@ -13,9 +13,9 @@
 
 #### How to gather logs with **LoggingKit**
 * Clone/Fork the Repo or Download the kit via [Releases](https://github.com/ananjaser1211/FloydQ_Reports/releases)
-#### [With booted System.] - **Intended for Crashes, FCs and other SYSTEM Logs**
+#### [With booted System] - **Intended for Crashes, FCs and other SYSTEM Logs**
 
-1) Install **Universal ADB drivers** or **Brand spesific ADB drivers** if you don't have them
+1) For Windows users: Install **Universal ADB drivers** or **Brand specific ADB drivers** if you don't have them
 2) In your phone **Enable USB debugging** under `Developer options`
 3) Launch your needed log type
 4) Grant `ADB Keys`
@@ -25,13 +25,13 @@
 
 #### **Legend**
 
-- [x] log-ball			= Full buffer logcat. Dont use unless requested
+- [x] log-ball			= Full buffer logcat. Don't use unless requested
 - [x] log-all 			= Verbose logcat, messy but records everything
 - [x] log-e 			= Log for Error filter, Only shows crashes
-- [x] log-ril 			= Log for Modem/Sim and other RIL issues
+- [x] log-ril 			= Log for Modem/SIM and other RIL issues
 - [x] log-kmsg			= Log for Kernel msg when the kernel panics
-- [x] log-dmsg			= Log for kernel on an active system
+- [x] log-dmsg			= Log for Kernel on an active system
 - [x] log-ActiveDmesg 	= Looping Log for Kernel on Active sysetm
 
-* Being stuck at **`"Waiting For Device"`** Means you either **did not auth the adb key** or your **device does not even have debugging enabled**
+* Being stuck at **`"Waiting For Device"`** means you either **did not auth the adb key** or your **device does not even have debugging enabled**
 * **Extra**: You can skip step 3/4 by running **`ADB_Keys.bat`** if you previously allowed your computer ADB
