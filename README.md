@@ -16,6 +16,7 @@
 #### [With booted System] - **Intended for Crashes, FCs and other SYSTEM Logs**
 
 1) For Windows users: Install **Universal ADB drivers** or **Brand specific ADB drivers** if you don't have them
+    For Linux and macOS users: To make the files executable, type in Terminal `chmod +x` and drag the files
 2) In your phone **Enable USB debugging** under `Developer options`
 3) Launch your needed log type
 4) Grant `ADB Keys`
