@@ -1,4 +1,4 @@
-# Floyd Q - Exynos8890
+# FloydQ - Exynos8890
 
 **Bug reporting repo for [FloydQ](https://bit.ly/3cEpe0N)**
 
@@ -20,7 +20,7 @@
 1) 1. For Windows users: Install **Universal ADB drivers** or **Brand specific ADB drivers** if you don't have them
     2. For Linux and macOS users: To make the files executable, type in Terminal `chmod +x` and drag the files
 2) On your phone **enable USB debugging** under `Developer options`
-3) Launch your required log type (to find out which logs you should gather, check [Legend](#Legend)
+3) Launch your required log type (to find out which logs you should gather, check [Legend](#Legend))
 4) Grant `ADB Keys`
 5) Close your log type
 6) Launch the needed log, again
