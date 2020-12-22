@@ -2,7 +2,7 @@
 
 **Bug reporting repo for [FloydQ](https://bit.ly/3cEpe0N)**
 
-![alt text](https://img.xda-cdn.com/cldaHm1TJoKn59LmNlV7fnkohwI=/https%3A%2F%2Fi.ibb.co%2FSssNGFz%2Ffinal-banner.png)
+![alt text](https://i.ibb.co/SssNGFz/final-banner.png)
 
 ### How to write issues
 
