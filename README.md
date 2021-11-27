@@ -10,6 +10,15 @@
 * Low effort in descriptions will most likely have your request closed.
 * Gather logs (for bug reports), reports without a log will be closed.
 
+### XDA Links for BeyondROM:
+
+* [S10](https://forum.xda-developers.com/t/rom-beyondrom-v8-8-21-10-2021-11-0-fui5-oct-patch-g970-g973-g975-f-fd.4017921/)
+
+* [S20](https://forum.xda-developers.com/t/rom-beyondrom-v3-1-24-03-2021-duc7-mar-patch-a11-g980f-g981b-g985f-g986b-g988b.4203109/)
+
+* [S21](https://forum.xda-developers.com/t/rom-beyondrom-v1-1-01-04-2021-auc8-exynos-sm-g99xx.4254933/post-84830965)
+
+
 ### How to gather logs with **LoggingKit**
 * Clone/Fork the repo or download the kit via [Releases](https://github.com/Lethany/BeyondROM_Hub/releases)
 
