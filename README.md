@@ -2,7 +2,7 @@
 
 **XDA Page [BeyondROM S10](https://forum.xda-developers.com/t/rom-beyondrom-v8-8-21-10-2021-11-0-fui5-oct-patch-g970-g973-g975-f-fd.4017921/)**
 
-![alt text](https://i.ibb.co/SssNGFz/final-banner.png)
+![alt text](https://i.imgur.com/cSSKUQo_d.webp?maxwidth=640&shape=thumb&fidelity=medium)
 
 ### How to write issues
 
