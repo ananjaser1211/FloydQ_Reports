@@ -6,7 +6,7 @@
 
 **XDA Page [BeyondROM S21](https://forum.xda-developers.com/t/rom-beyondrom-v1-1-01-04-2021-auc8-exynos-sm-g99xx.4254933/post-84830965)**
 
-![alt text](https://i.ibb.co/SssNGFz/final-banner.png)
+![alt text](https://gyazo.com/9cc24d9ee6a1f1604f41b37ab4b83c4c)
 
 ### How to write issues
 
