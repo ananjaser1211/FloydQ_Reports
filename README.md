@@ -2,6 +2,8 @@
 
 ![alt text](https://i.imgur.com/cSSKUQo_d.webp?maxwidth=640&shape=thumb&fidelity=medium)
 
+**Credits to Anan1211 for the Logging Kit.**
+
 ### How to Report a bug or a request a feature:
 
 * Select the right template for your issue request `([BUG] for bug, [Feature] for Features)`
