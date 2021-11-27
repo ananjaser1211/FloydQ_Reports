@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Create a Bug Report to help us improve our ROM.
-title: "[BUG]"
+title: "[BUG] Bug Name"
 labels: ''
 assignees: ''
 
