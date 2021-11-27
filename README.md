@@ -1,15 +1,10 @@
 # BeyondROM Main Hub
 
-**XDA Page [BeyondROM S10](https://forum.xda-developers.com/t/rom-beyondrom-v8-8-21-10-2021-11-0-fui5-oct-patch-g970-g973-g975-f-fd.4017921/)**
-
-**XDA Page [BeyondROM S20](https://forum.xda-developers.com/t/rom-beyondrom-v3-1-24-03-2021-duc7-mar-patch-a11-g980f-g981b-g985f-g986b-g988b.4203109/)**
-
-**XDA Page [BeyondROM S21](https://forum.xda-developers.com/t/rom-beyondrom-v1-1-01-04-2021-auc8-exynos-sm-g99xx.4254933/post-84830965)**
-
 ![alt text](https://i.imgur.com/cSSKUQo_d.webp?maxwidth=640&shape=thumb&fidelity=medium)
 
 ### How to write issues
 
+* Select the branch for your device
 * Select the right template for your issue request `([BUG] for bug, [Request] for requests)`
 * Please explain your issue correctly
 * Give as much details as possible.
