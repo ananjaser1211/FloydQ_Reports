@@ -24,8 +24,8 @@ A clear description of what you expected to happen.
 Add screenshots to help explain your problem.
 
 **Smartphone (please complete the following information):**
- - Device: [e.g. Galaxy S7]
- - Model: [e.g. G930F]
+ - Device: [e.g. Galaxy S21 5G]
+ - Model: [e.g. G991B]
 
 **Additional context**
 - Gather logs by using [LoggingKit](https://bit.ly/3anwSuW) when applicable
