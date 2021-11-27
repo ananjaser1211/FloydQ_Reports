@@ -1,6 +1,8 @@
-# FloydQ - Exynos8890
+# BeyondROM Main Hub
 
-**Bug reporting repo for [FloydQ](https://bit.ly/3cEpe0N)**
+**XDA Page [BeyondROM S20](https://forum.xda-developers.com/t/rom-beyondrom-v3-1-24-03-2021-duc7-mar-patch-a11-g980f-g981b-g985f-g986b-g988b.4203109/)**
+
+**XDA Page [BeyondROM S21](https://forum.xda-developers.com/t/rom-beyondrom-v3-1-24-03-2021-duc7-mar-patch-a11-g980f-g981b-g985f-g986b-g988b.4203109/)**
 
 ![alt text](https://i.ibb.co/SssNGFz/final-banner.png)
 
