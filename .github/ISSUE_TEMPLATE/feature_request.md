@@ -1,7 +1,7 @@
 ---
-name: Feature request
-about: Create a feature request to help us software more useful
-title: "[Feature]"
+name: Feature Request
+about: Create a Feature Request to help us improve the ROM.
+title: "Feature"
 labels: ''
 assignees: ''
 
