@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Describe the feature**
-Describe your feature request here. [e.g. Air Command]
+Describe your feature request here. [e.g. Native Blur]
 
 **Possible Visualization**
 Example ways to visualizate the request:
@@ -22,8 +22,8 @@ A clear description of what you expected to happen
 .
 
 **Smartphone (please complete this feature following information part if you want device spesific):**
- - Device: [e.g. Galaxy Note 7 BE]
- - Model: [e.g. N930F]
+ - Device: [e.g. Galaxy S20 Ultra 5G]
+ - Model: [e.g. G988B]
 
 **Origin of Feature**
 - Add feature of origin device brand, device model and (if its possible) firmware link.
