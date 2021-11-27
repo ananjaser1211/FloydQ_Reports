@@ -4,7 +4,6 @@
 
 ### How to Report a bug or a request a feature:
 
-* Select the branch for your device
 * Select the right template for your issue request `([BUG] for bug, [Feature] for Features)`
 * Please explain your bug/feature correctly
 * Give as much details as possible.
