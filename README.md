@@ -25,7 +25,7 @@
 
 
 ### How to gather logs with **LoggingKit**
-* Clone/Fork the repo or download the kit via [Releases](https://github.com/LeeXDA21/BeyondROM_Hub/releases)
+* Download the latest release via [LoggingKit_v5](https://github.com/LeeXDA21/BeyondROM_Hub/releases/download/v5.0/LoggingKit_v5.zip) and follow the legend.
 
 ### [With booted System] - **Intended for Crashes, FCs and other SYSTEM Logs**
 
