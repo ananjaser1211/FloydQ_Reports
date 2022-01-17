@@ -47,7 +47,7 @@
 | log-kmsg | Log for Kernel msg when the kernel panics|
 | log-dmsg | Log for Kernel on an active system|
 | log-ActiveDmesg 	| Looping Log for Kernel on active system|
-| log-dump 	| Get the prev_dump.log (Don't use unless requested by Dev|
+| log-dump 	| Get the prev_dump.log (Don't use unless requested by Dev)|
 
 * Being stuck at **`"Waiting For Device"`** means you either **did not auth the adb key** or your **device does not even have debugging enabled**
 * **Extra**: You can skip step 3/4 by running **`ADB_Keys.bat`** if you previously allowed your computer ADB
