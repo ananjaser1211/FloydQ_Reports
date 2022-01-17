@@ -21,9 +21,11 @@
 
 * [S21](https://forum.xda-developers.com/t/rom-beyondrom-v1-1-01-04-2021-auc8-exynos-sm-g99xx.4254933/post-84830965)
 
+* [Project Unbound]() *Coming Soon*
+
 
 ### How to gather logs with **LoggingKit**
-* Clone/Fork the repo or download the kit via [Releases](https://github.com/Lethany/BeyondROM_Hub/releases)
+* Clone/Fork the repo or download the kit via [Releases](https://github.com/LeeXDA21/BeyondROM_Hub/releases)
 
 ### [With booted System] - **Intended for Crashes, FCs and other SYSTEM Logs**
 
