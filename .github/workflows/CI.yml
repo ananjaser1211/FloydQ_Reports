@@ -1,0 +1,24 @@
+name: CI
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  build:
+    name: Upload LoggingKit
+    runs-on: macos-latest
+    steps:
+      - name: Zip LoggingKit
+        uses: actions/checkout@v3
+      - run: echo "TAG_VER=${GITHUB_REF/refs\/tags\/v/}" >> $GITHUB_ENV
+      - run: zip --exclude '*.git*' --exclude '*.github*' -r -X "LoggingKit-${TAG_VER}.zip" .
+          
+      - name: Upload to Release
+        if: github.event_name == 'release'
+        uses: svenstaro/upload-release-action@e74ff71f7d8a4c4745b560a485cc5fdb9b5b999d
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          file: *.zip
+          tag: ${{ github.ref }}
+          file_glob: true
