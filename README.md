@@ -32,7 +32,7 @@
 | :------: | :------: |
 | log-ball | Full buffer logcat. Don't use unless requested|
 | log-all | Verbose logcat, messy but records everything|
-| log-e | Log for Error filter, only shows crashes|
+| log-error | Log for Error filter, only shows crashes|
 | log-ril | Log for Modem/SIM and other RIL issues|
 | log-kmsg | Log for Kernel msg when the kernel panics|
 | log-dmsg | Log for Kernel on an active system|
